@@ -1,0 +1,14 @@
+{
+    "vip-method":{
+        "apis":[
+            "http://dfgfgfdfdggfdgdfgdfgg/attack?key=cfweonfocnwoen&username=gdfgdfgrgfdgdfgegedfgkdf&password=ggdgfdgdrfdgdgegfgfgfddggdggdek&target=<ip>&port=<port>&time=<time>&method=TCP-NOVA"
+        ],
+        "network": "VIP"
+    },
+    "basic-method":{
+        "apis":[
+            "http://43546w655.dgdf5634g3461.43562434561.34563434564:8634560854/attack?key=cfweonfocnwoen&username=grgjhfjjghe454346ek&password=ggfhjrfgejejkghj&gtarget=<ip>&port=<port>&time=<time>&method=TCP-NOVA"
+        ],
+        "network": "BASIC"
+    }
+}

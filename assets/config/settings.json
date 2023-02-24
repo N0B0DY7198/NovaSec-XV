@@ -1,0 +1,7 @@
+{
+    "default_theme": "default",
+    "themes":[
+        "coming_soon"
+    ],
+    "port": 999
+}
